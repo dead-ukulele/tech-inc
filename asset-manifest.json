@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tech-inc/static/css/main.6fd42066.css",
+    "main.js": "/tech-inc/static/js/main.515d4068.js",
+    "static/media/nj.png": "/tech-inc/static/media/nj.a9fd4b0cb5a3c85fbacf.png",
+    "static/media/garbage-bin.png": "/tech-inc/static/media/garbage-bin.2fab7f98f5e15d4aad13.png",
+    "static/media/logo.png": "/tech-inc/static/media/logo.b1e5cd3fd4ddac6394c2.png",
+    "index.html": "/tech-inc/index.html",
+    "main.6fd42066.css.map": "/tech-inc/static/css/main.6fd42066.css.map",
+    "main.515d4068.js.map": "/tech-inc/static/js/main.515d4068.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd42066.css",
+    "static/js/main.515d4068.js"
+  ]
+}
